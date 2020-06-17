@@ -21,5 +21,7 @@ Run the whole notebook. Mount drive when prompted.
 
 
 ### Acknowledgments
-Xavier Favory
+Xavier Favory, researcher at the Audio Signal Processing Lab at UPF, for the code provided to start this project.
+
+Bosch, J. J., Janer, J., Fuhrmann, F., & Herrera, P. “A Comparison of Sound Segregation Techniques for Predominant Instrument Recognition in Musical Audio Signals”, in Proc. ISMIR (pp. 559-564), 2012
 

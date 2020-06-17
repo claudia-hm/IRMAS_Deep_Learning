@@ -1,5 +1,5 @@
 # Instrument Recognition in Musical Audio Signals 
-The goal of this project is to classify instruments in music audio signals. To do so, we have implemented a VGG-like model that is trained with the Mel Log Spectrograms extracted from the data in the IRMAS dataset.
+The goal of this project is to recognize and classify predominant instruments in music audio signals. To do so, we have implemented a VGG-like model that is trained with the Mel Log Spectrograms extracted from the data in the IRMAS dataset.
 
 ### Getting started
 Download a copy of this repository. Extract the zip file and upload it to your drive. The path to the repository folder should be */content/drive/My Drive/DeepLearning_2020/*
@@ -17,9 +17,9 @@ Run the whole notebook. Mount drive when prompted.
 * [Essentia](https://essentia.upf.edu) - Open-source library and tools for audio and music analysis, description and synthesis
 
 ### Authors
-* [Claudia Herron Mulet](https://www.linkedin.com/in/claudiaherronmulet/)
-* Júlia Riera Perramón
-* [Sara Estévez Manteiga](www.linkedin.com/in/saraestevezmanteiga/)
+* [Claudia Herron Mulet](https://www.linkedin.com/in/claudiaherronmulet/) claudia.herron01@estudiant.upf.edu  
+* Júlia Riera Perramón julia.riera02@estudiant.upf.edu
+* [Sara Estévez Manteiga](www.linkedin.com/in/saraestevezmanteiga/) sara.estevez02@estudiant.upf.edu
 
 
 ### Acknowledgments

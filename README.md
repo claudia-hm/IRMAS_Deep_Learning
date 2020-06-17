@@ -9,17 +9,26 @@ Also, download the files in  https://drive.google.com/drive/folders/1PCZbU3EFrr0
 ### Prerequisites
 Google Colab
 
-### Deployment
+### Running the tests
 Run the whole notebook. Mount drive when prompted.
+
+The code is structured in the following sections:
+0. Preliminaries: mount drive, install required packages, imports, data checking and CPU/GPU warm-up.
+1. Data loading and pre-processing: retrieve the audio filenames and compute the Log Mel Spectrograms for the whole dataset.
+2. Create custom dataset used to gather batches of images.
+3. Define the model: class creation and instantiation of the VGG-like model.
+4. Hyperparameters setting
+5. Actual training
+6. Analysing the output incluiding testing
 
 ### Built With
 * [PyTorch](https://pytorch.org) - An open source machine learning framework
 * [Essentia](https://essentia.upf.edu) - Open-source library and tools for audio and music analysis, description and synthesis
 
 ### Authors
-* [Claudia Herron Mulet](https://www.linkedin.com/in/claudiaherronmulet/) claudia.herron01@estudiant.upf.edu  
-* Júlia Riera Perramón julia.riera02@estudiant.upf.edu
-* [Sara Estévez Manteiga](www.linkedin.com/in/saraestevezmanteiga/) sara.estevez02@estudiant.upf.edu
+* [Claudia Herron Mulet](https://www.linkedin.com/in/claudiaherronmulet/) (claudia.herron01@estudiant.upf.edu)  
+* Júlia Riera Perramón (julia.riera02@estudiant.upf.edu)
+* [Sara Estévez Manteiga](www.linkedin.com/in/saraestevezmanteiga/) (sara.estevez02@estudiant.upf.edu)
 
 
 ### Acknowledgments

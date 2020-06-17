@@ -9,7 +9,7 @@ Also, go to https://drive.google.com/drive/folders/1PCZbU3EFrr0Ek2II3MtZ8QsX-o3S
 The expected directory structure is the following:
 
 <p align="center">
-  <img width="100%" src="https://github.com/claudia-hm/IRMAS_Deep_Learning/blob/master/directory_structure.png" >
+  <img width="100%" src="https://github.com/claudia-hm/IRMAS_Deep_Learning/blob/master/directory_structure_2.png" >
 </p>
 
 ### Prerequisites

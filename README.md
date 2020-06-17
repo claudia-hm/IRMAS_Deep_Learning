@@ -2,7 +2,7 @@
 The goal of this project is to recognize and classify predominant instruments in music audio signals. To do so, we have implemented a VGG-like model that is trained with the Mel Log Spectrograms extracted from the data in the IRMAS dataset.
 
 ### Getting started
-Download a copy of this repository. Extract the zip file, rename it to *IRMAS_Deep_Learning* and upload it to your Google Drive. If not existent, create a directory in your root Drive named *DeepLearning_2020*. Move the *IRMAS_Deep_Learning* directory inside.The path to the repository folder should be */content/drive/My Drive/DeepLearning_2020/IRMAS_Deep_Learning*
+Download a copy of this repository. Extract the zip file and rename it to *IRMAS_Deep_Learning*. If not existent, create a directory in your root Google Drive named *DeepLearning_2020* and upload the *IRMAS_Deep_Learning* directory to it.The path to the repository folder should be */content/drive/My Drive/DeepLearning_2020/IRMAS_Deep_Learning*
 
 Also, download the files in  https://drive.google.com/drive/folders/1PCZbU3EFrr0Ek2II3MtZ8QsX-o3S0cMA?usp=sharing and store them in */content/drive/My Drive/DeepLearning_2020/IRMAS_Deep_Learning/Data/*
 

@@ -6,6 +6,12 @@ Download a copy of this repository. Extract the zip file and rename it to *IRMAS
 
 Also, go to https://drive.google.com/drive/folders/1PCZbU3EFrr0Ek2II3MtZ8QsX-o3S0cMA?usp=sharing and right click on the Data directory. Create a direct access to this folder inside the *IRMAS_Deep_Learning* directory. The path to the Data should be */content/drive/My Drive/DeepLearning_2020/IRMAS_Deep_Learning/Data/*
 
+The expected directory structure is the following:
+
+<p align="center">
+  <img width="100%" src="https://github.com/claudia-hm/IRMAS_Deep_Learning/blob/master/directory_structure.png" >
+</p>
+
 ### Prerequisites
 Google Colab
 

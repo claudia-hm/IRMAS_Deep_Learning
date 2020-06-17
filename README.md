@@ -4,6 +4,8 @@ The goal of this project is to classify instruments in music audio signals. To d
 ### Getting started
 Download a copy of this repository. Extract the zip file and upload it to your drive. The path to the repository folder should be */content/drive/My Drive/DeepLearning_2020/*
 
+Also, download the files in  https://drive.google.com/drive/folders/1PCZbU3EFrr0Ek2II3MtZ8QsX-o3S0cMA?usp=sharing and store them in */content/drive/My Drive/DeepLearning_2020/Data/*
+
 ### Prerequisites
 Google Colab
 

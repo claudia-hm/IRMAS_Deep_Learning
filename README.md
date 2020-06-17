@@ -39,6 +39,8 @@ Also, we have included an extra python notebook with code to retrain and test th
 * Júlia Riera Perramón (julia.riera02@estudiant.upf.edu)
 * [Sara Estévez Manteiga](www.linkedin.com/in/saraestevezmanteiga/) (sara.estevez02@estudiant.upf.edu)
 
+Mathematical Engineering in Data Science students at UPF.
+
 
 ### Acknowledgments
 Xavier Favory, researcher at the Audio Signal Processing Lab at UPF, for the code provided to start this project.

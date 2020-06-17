@@ -10,7 +10,7 @@ Also, go to https://drive.google.com/drive/folders/1PCZbU3EFrr0Ek2II3MtZ8QsX-o3S
 Google Colab
 
 ### Running the tests
-Run the whole notebook. Mount drive when prompted.
+Run the IRMAS_Deep_Learning.ipynb notebook. Mount drive when prompted.
 
 The code is structured in the following sections:
 
@@ -21,6 +21,8 @@ The code is structured in the following sections:
 4. Hyperparameters setting
 5. Actual training
 6. Analysing the output incluiding testing
+
+Also, we have included an extra python notebook with code to retrain and test the model with the original 11 instruments (IRMAS_Deep_Learning_bis_11.ipynb). The structure of the code is exactly the same as in IRMAS_Deep_Learning.ipynb.
 
 ### Built With
 * [PyTorch](https://pytorch.org) - An open source machine learning framework

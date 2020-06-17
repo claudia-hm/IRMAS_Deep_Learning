@@ -34,7 +34,7 @@ The code is structured in the following sections:
 Also, we have included an extra python notebook with code to retrain and test the model with the original 11 instruments (IRMAS_Deep_Learning_bis_11.ipynb). The structure of the code is exactly the same as in IRMAS_Deep_Learning.ipynb.
 
 ### Results
-In IRMAS_Deep_Learning.ipynb and IRMAS_Deep_Learning_bis_11.ipynb, we have reached an accuracy of approximately 83% and 64%. As the training and testing spliting is stochastic, the accuracy value will differ from run to run. We recommend restarting the notebook and running it again to achieve this results if they are not reflected in the first runs.
+In IRMAS_Deep_Learning.ipynb and IRMAS_Deep_Learning_bis_11.ipynb, we have reached an accuracy of approximately 83% and 64%, respectively. As the training and testing spliting is stochastic, the accuracy value will differ from run to run. We recommend restarting the notebook and running it again to achieve this results if they are not reflected in the first runs.
 
 Built With
 ------

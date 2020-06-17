@@ -13,6 +13,7 @@ Google Colab
 Run the whole notebook. Mount drive when prompted.
 
 The code is structured in the following sections:
+
 0. Preliminaries: mount drive, install required packages, imports, data checking and CPU/GPU warm-up.
 1. Data loading and pre-processing: retrieve the audio filenames and compute the Log Mel Spectrograms for the whole dataset.
 2. Create custom dataset used to gather batches of images.
